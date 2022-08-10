@@ -12,7 +12,7 @@
 | `/battlepass`  | เช็คความคืบหน้า Battlepass |
 | `/bundle`  | เช็ค Bundle แบบระบุ |
 | `/bundles`  | เช็ค Bundle ตอนนี้ |
-| `/cookies`  | ล็อคอินด้วย Cookies จากเว็บ |
+| `/cookies`  | ล็อคอินด้วย Cookies จากเว็บ <a href="https://github.com/Shell2548-Sh/Nong-Jett/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A-Cookies">วิธีหยิบ Cookie</a> |
 | `/notify add`  | เพิ่มการแจ้งเตือนเมื่อมีสกินในร้านค้า |
 | `/notify list`  | ดูรายการแจ้งเตือนที่เลือกไว้ |
 | `/notify mode`  | เปลี่ยนโหมดการแจ้งเตือนแบบ `เจาะจง` หรือ `ทั้งหมด` |
